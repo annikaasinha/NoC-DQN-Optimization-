@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You need Python 3.6+ installed on your machine. Python can be downloaded from [python.org](https://www.python.org/downloads/) or installed using your operating system's package manager.
+This will run on Python 3.6+.
 
 ### Installation
 
