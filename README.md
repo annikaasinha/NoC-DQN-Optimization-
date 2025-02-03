@@ -15,7 +15,7 @@ This will run on Python 3.6+.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/YourGitHubUsername/NoC-DQN-Optimization.git
+   git clone https://github.com/annikaasinha/NoC-DQN-Optimization.git
    ```
 
 2. **Navigate to the project directory:**
